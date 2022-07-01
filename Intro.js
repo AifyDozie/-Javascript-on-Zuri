@@ -1,7 +1,13 @@
 let myName = "Ifeoma Dozie";
+
 let myHeight = "5feet";
+
 let myCountry = "Nigeria";
-console.log(myName);
-console.log(myHeight);
-console.log(myCountry);
+
+document.write(myName);
+document.write("<br><br>")
+document.write(myHeight);
+document.write("<br><br>")
+document.write(myCountry);
+
 
